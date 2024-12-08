@@ -35,7 +35,7 @@ export default function Hero() {
                 Download Now
               </a>
               <a
-                href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs"
+                href="https://www.youtube.com/watch?v=xvFZjo5PgG0"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="border border-dark-400 hover:border-primary-500 hover:text-primary-400 text-dark-300 px-8 py-3 rounded-lg font-medium transition-colors flex items-center"
