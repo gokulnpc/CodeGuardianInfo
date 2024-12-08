@@ -19,7 +19,6 @@
 ## 📬 Contact
 
 For support or inquiries:
-- GitHub: [CodeGuardian Repository](https://github.com/codeguardian)
 - Website: [codeguardianlmstudio.netlify.app](https://codeguardianlmstudio.netlify.app/)
 - LinkedIn: [Adithyah Nair](https://www.linkedin.com/in/adithyahnair)
 
