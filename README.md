@@ -9,20 +9,12 @@
    - https://www.youtube.com/watch?v=1cz23dexJ-A
 
 2. **CodeGuardian GitHub Link**
-   - [https://www.youtube.com/watch?v=1cz23dexJ-A](https://github.com/gokulnpc/codeGuardian)
-  
-## 💡 How It Works
-
-1. **Write Code**: Code naturally in your VSCode environment
-2. **Instant Analysis**: Receive real-time security feedback as you type
-3. **Review Insights**: Get detailed vulnerability reports and recommendations
-4. **Apply Fixes**: Implement suggested security improvements
-5. **Ship Securely**: Deploy with confidence knowing your code is secure
+   - https://github.com/gokulnpc/codeGuardian
 
 ## 👥 Team
 
-- [Gokuleshwaran Narayanan](https://github.com/gokulnpc) - Computer Scientist
-- [Adithyah Nair](https://github.com/adithyahnair) - Computer Scientist
+- [Gokuleshwaran Narayanan](https://github.com/gokulnpc) - CS Grad at NYU
+- [Adithyah Nair](https://github.com/adithyahnair) - CS Grad at NYU
 
 ## 📬 Contact
 
