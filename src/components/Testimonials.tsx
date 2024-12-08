@@ -7,7 +7,7 @@ const testimonials = [
     name: "Gokuleshwaran Narayanan",
     role: "Computer Scientist",
     rating: 5,
-    image: "../../public/assets/gokul.jpg",
+    image: "assets/gokul.jpg",
   },
   {
     quote:
@@ -15,7 +15,7 @@ const testimonials = [
     name: "Adithyah Nair",
     role: "Computer Scientist",
     rating: 5,
-    image: "../../public/assets/adithyah.jpg",
+    image: "assets/adithyah.jpg",
   },
 ];
 
