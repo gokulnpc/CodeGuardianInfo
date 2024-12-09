@@ -77,7 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support or inquiries:
 - Website: [codeguardianlmstudio.netlify.app](https://codeguardianlmstudio.netlify.app/)
-- LinkedIn: [Adithyah Nair](https://www.linkedin.com/in/adithyahnair)
+- LinkedIn: [Adithyah Nair](https://www.linkedin.com/in/adithyahnair) [Gokuleshwaran Narayanan](https://github.com/gokulnpc) 
 ---
 
 <div align="center">
